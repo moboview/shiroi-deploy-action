@@ -1,1 +1,1 @@
-afb06d1f
+echo "old_hash" > build_hash  # 替换为无效哈希或旧值
